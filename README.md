@@ -7,8 +7,9 @@ This repository contains the main chapters of a thesis report titled:
 **Institution:** Aristotle University of Thessaloniki, School of Electrical and Computer Engineering  
 **Academic Year:** 2024–2025
 
-The full thesis is available through the Aristotle University of Thessaloniki Institutional Repository:
+For the complete analysis refer to `Report.pdf`.
 
+The full thesis is available through the Aristotle University of Thessaloniki Institutional Repository:
 [https://ikee.lib.auth.gr/record/362517](https://ikee.lib.auth.gr/record/362517)
 
 ## Brief Overview
@@ -74,7 +75,5 @@ The `figures/simulation_results_/` folder contains the following simulation-resu
 * `vref_temperature_response.png`
 
 ## Note
-
-For the complete analysis refer to `Report.pdf`.
 Technology-specific implementation files are not included.
 
