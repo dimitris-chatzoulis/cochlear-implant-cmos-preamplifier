@@ -22,7 +22,7 @@ The full thesis is available through the Aristotle University of Thessaloniki In
 
 ```text
 .
-├── Thesis\_Report.pdf
+├── Thesis_Report.pdf
 └── figures/
     ├── schematics\_and\_layout/
     └── simulation\_results/
@@ -30,9 +30,9 @@ The full thesis is available through the Aristotle University of Thessaloniki In
 
 ## Thesis Report
 
-`Thesis\_Report.pdf` contains the main chapters of the thesis report. It provides the full explanation of the methodology, simulations, and conclusions.
+`Thesis_Report.pdf` contains the main chapters of the thesis report. It provides the full explanation of the methodology, simulations, and conclusions.
 
-In `Thesis\_Report.pdf` additional tables and simulations for process corners, harmonic distortion (THD), power consumption, temperature behavior, area, and comparison with similar amplifiers are included.
+In `Thesis_Report.pdf` additional tables and simulations for process corners, harmonic distortion (THD), power consumption, temperature behavior, area, and comparison with similar amplifiers are included.
 
 ## Schematics and Layout
 
