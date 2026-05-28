@@ -24,8 +24,8 @@ The full thesis is available through the Aristotle University of Thessaloniki In
 .
 ├── Thesis_Report.pdf
 └── figures/
-    ├── schematics\_and\_layout/
-    └── simulation\_results/
+    ├── schematics_and_layout/
+    └── simulation_results/
 ```
 
 ## Thesis Report
@@ -37,29 +37,29 @@ In `Thesis_Report.pdf` additional tables and simulations for process corners, ha
 
 ## Schematics and Layout
 
-The `figures/schematics\_and\_layout/` folder contains the main schematic-level and layout-level figures of the analog front-end system:
+The `figures/schematics_and_layout/` folder contains the main schematic-level and layout-level figures of the analog front-end system:
 
-* `preamplifier\_schematic.png`
-* `feedback\_system\_schematic.png`
-* `bias\_circuit\_schematic.png`
-* `reference\_voltage\_circuit\_schematic.png`
-* `analog\_front\_end\_layout.png`
+* `preamplifier_schematic.png`
+* `feedback_system_schematic.png`
+* `bias_circuit_schematic.png`
+* `reference_voltage_circuit_schematic.png`
+* `analog_front_end_layout.png`
 
 ## Simulation Results
 
-The `figures/simulation\_results/` folder contains the following simulation-result plots:
+The `figures/simulation_results/` folder contains the following simulation-result plots:
 
-* `cmrr\_layout\_vs\_schematic.png`
-* `gain\_bandwidth\_without\_output\_filter.png`
-* `gain\_bandwidth\_with\_output\_filter.png`
-* `input\_noise\_layout\_vs\_schematic.png`
-* `input\_referred\_noise.png`
-* `phase\_margin.png`
-* `psrr\_response.png`
-* `vref\_temperature\_response.png`
+* `cmrr_layout_vs_schematic.png`
+* `gain_bandwidth_without_output_filter.png`
+* `gain_bandwidth_with_output_filter.png`
+* `input_noise_layout_vs_schematic.png`
+* `input_referred_noise.png`
+* `phase_margin.png`
+* `psrr_response.png`
+* `vref_temperature_response.png`
 
 ## Note
 
-For the complete analysis refer to `Thesis\_Report.pdf`.
+For the complete analysis refer to `Thesis_Report.pdf`.
 Technology-specific implementation files are not included.
 
