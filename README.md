@@ -31,6 +31,8 @@ The full thesis is available through the Aristotle University of Thessaloniki In
 ## Thesis Report
 [View Report](./Report.pdf)
 
+[Download full-quality report](https://drive.google.com/file/d/16PjLneQz6USgkRYqoxZL7kJiFPQ9ueV2/view?usp=drive_link)
+
 `Report.pdf` contains the main chapters of the thesis report. It provides the full explanation of the methodology, simulations, and conclusions.
 
 In `Report.pdf` additional tables and simulations for process corners, harmonic distortion (THD), power consumption, temperature behavior, area, and comparison with similar amplifiers are included.
