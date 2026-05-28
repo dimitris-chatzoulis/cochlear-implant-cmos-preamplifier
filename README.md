@@ -18,6 +18,18 @@ The full thesis is available through the Aristotle University of Thessaloniki In
 * Performed schematic design, layout, and post-layout verification, including DRC, LVS, and parasitic extraction.
 * Achieved 1.55 µW power consumption and 7.58 µVrms input-referred noise over 20 Hz–20 kHz, while validating gain, phase margin, PSRR, CMRR, THD, area, PVT corners, and temperature range.
 
+## Preview
+
+![Preamplifier schematic](figures/schematics_and_layout/preamplifier_schematic.png)
+
+![Analog front-end layout](figures/schematics_and_layout/analog_front_end_layout.png)
+
+![Gain-bandwidth with output filter](figures/simulation_results/gain_bandwidth_with_output_filter.png)
+
+![Input-referred noise](figures/simulation_results/input_referred_noise.png)
+
+![Performance comparison table](figures/performance_comparison_table.png)
+
 ## Repository Structure
 
 ```text
