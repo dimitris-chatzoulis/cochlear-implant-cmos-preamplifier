@@ -9,8 +9,9 @@ This repository contains the main chapters of a thesis report titled:
 
 For the complete analysis refer to `Report.pdf`.
 
-The full thesis is available through the Aristotle University of Thessaloniki Institutional Repository:
-[https://ikee.lib.auth.gr/record/362517](https://ikee.lib.auth.gr/record/362517)
+[View Report](./Report.pdf)
+
+[view full-quality report on Gooogle Drive](https://drive.google.com/file/d/16PjLneQz6USgkRYqoxZL7kJiFPQ9ueV2/view?usp=drive_link)
 
 ## Brief Overview
 
@@ -43,9 +44,6 @@ The full thesis is available through the Aristotle University of Thessaloniki In
 ```
 
 ## Thesis Report
-[View Report](./Report.pdf)
-
-[view full-quality report](https://drive.google.com/file/d/16PjLneQz6USgkRYqoxZL7kJiFPQ9ueV2/view?usp=drive_link)
 
 The full thesis is available through the Aristotle University of Thessaloniki Institutional Repository:
 [https://ikee.lib.auth.gr/record/362517](https://ikee.lib.auth.gr/record/362517)
