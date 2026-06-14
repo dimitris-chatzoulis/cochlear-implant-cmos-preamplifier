@@ -45,9 +45,6 @@ For the complete analysis refer to `Report.pdf`.
 
 ## Thesis Report
 
-The full thesis is available through the Aristotle University of Thessaloniki Institutional Repository:
-[https://ikee.lib.auth.gr/record/362517](https://ikee.lib.auth.gr/record/362517)
-
 `Report.pdf` contains the main chapters of the thesis report. It provides the full explanation of the methodology, simulations, and conclusions.
 
 In `Report.pdf` additional tables and simulations for process corners, harmonic distortion (THD), power consumption, temperature behavior, area, and comparison with similar amplifiers are included.
@@ -77,4 +74,7 @@ The `figures/simulation_results_/` folder contains the following simulation-resu
 
 ## Note
 Technology-specific implementation files are not included.
+
+The full thesis is available through the Aristotle University of Thessaloniki Institutional Repository:
+[https://ikee.lib.auth.gr/record/362517](https://ikee.lib.auth.gr/record/362517)
 
