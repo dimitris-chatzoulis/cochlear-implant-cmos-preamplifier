@@ -45,7 +45,10 @@ The full thesis is available through the Aristotle University of Thessaloniki In
 ## Thesis Report
 [View Report](./Report.pdf)
 
-[Download full-quality report](https://drive.google.com/file/d/16PjLneQz6USgkRYqoxZL7kJiFPQ9ueV2/view?usp=drive_link)
+[view full-quality report](https://drive.google.com/file/d/16PjLneQz6USgkRYqoxZL7kJiFPQ9ueV2/view?usp=drive_link)
+
+The full thesis is available through the Aristotle University of Thessaloniki Institutional Repository:
+[https://ikee.lib.auth.gr/record/362517](https://ikee.lib.auth.gr/record/362517)
 
 `Report.pdf` contains the main chapters of the thesis report. It provides the full explanation of the methodology, simulations, and conclusions.
 
